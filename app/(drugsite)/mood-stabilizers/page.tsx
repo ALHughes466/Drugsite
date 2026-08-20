@@ -31,29 +31,29 @@ export default function MoodStabilizersPage() {
             (Bertollo et al., 2026).
           </p>
         ),
-        "Brain regions & neural systems affected": (
-          <p>
-            Though there are quite a few regions within the brain that are impacted by the use of lithium, the most
-            prominent are the hippocampus and amygdala. These areas are involved in memory, emotional regulation, and
-            processing stress. These functions in particular are disrupted in individuals with bipolar disorder.
-            Lithium interferes with the inositol pathway in the brain. This pathway acts as a backup messenger system
-            that is blocked through its interaction with lithium. This blocking mutes the overactive intracellular
-            signaling (Neurolaunch, 2024). When the signaling turns overactive, it can cause the extreme mood changes
-            commonly seen during manic episodes in bipolar disorder. By reducing this, lithium helps to stabilize
-            neuron communication, leading to a balanced mood.
-          </p>
-        ),
-        "Neurotransmitters & circuits affected": (
-          <p>
-            The primary neurotransmitters affected by lithium are dopamine, glutamate, and gamma-aminobutyric acid
-            (GABA). These transmitters play a crucial role in regulating mood, emotion, and overall activity within
-            an individual (Marjan et al., 2023). It is not widely understood whether lithium acts as an agonist,
-            antagonist, reuptake inhibitor, or releaser. Instead, lithium works by modifying numerous pathways in the
-            brain. Studies show that reducing the GSK-3 enzyme in the brain, which helps regulate activity, helps
-            regulate the systems that are important for lithium to have its full effects on the body (Neurolaunch,
-            2024). These changes help improve neurotransmitter activity and significantly reduce the extreme mood
-            shifts that come with bipolar disorder.
-          </p>
+        "Brain regions, neural systems, and neurotransmitters affected": (
+          <>
+            <p>
+              Though there are quite a few regions within the brain that are impacted by the use of lithium, the most
+              prominent are the hippocampus and amygdala. These areas are involved in memory, emotional regulation, and
+              processing stress. These functions in particular are disrupted in individuals with bipolar disorder.
+              Lithium interferes with the inositol pathway in the brain. This pathway acts as a backup messenger system
+              that is blocked through its interaction with lithium. This blocking mutes the overactive intracellular
+              signaling (Neurolaunch, 2024). When the signaling turns overactive, it can cause the extreme mood changes
+              commonly seen during manic episodes in bipolar disorder. By reducing this, lithium helps to stabilize
+              neuron communication, leading to a balanced mood.
+            </p>
+            <p>
+              The primary neurotransmitters affected by lithium are dopamine, glutamate, and gamma-aminobutyric acid
+              (GABA). These transmitters play a crucial role in regulating mood, emotion, and overall activity within
+              an individual (Marjan et al., 2023). It is not widely understood whether lithium acts as an agonist,
+              antagonist, reuptake inhibitor, or releaser. Instead, lithium works by modifying numerous pathways in the
+              brain. Studies show that reducing the GSK-3 enzyme in the brain, which helps regulate activity, helps
+              regulate the systems that are important for lithium to have its full effects on the body (Neurolaunch,
+              2024). These changes help improve neurotransmitter activity and significantly reduce the extreme mood
+              shifts that come with bipolar disorder.
+            </p>
+          </>
         ),
         "Subjective effects": (
           <p>

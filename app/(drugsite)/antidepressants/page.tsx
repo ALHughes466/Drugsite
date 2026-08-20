@@ -45,19 +45,17 @@ export default function AntidepressantsPage() {
             </p>
           </>
         ),
-        "Brain regions & neural systems affected": (
-          <p>
-            Antidepressants don’t just target one spot in the brain. They impact a multitude of regions tied to emotions,
-            motivation, memory, and self-regulation. Regions impacted include the prefrontal cortex (planning, focus,
-            dealing with feelings), amygdala (processing fear and negative emotions), hippocampus (memory), and other areas
-            tied to reward and pleasure. Changes to these areas matter because depression isn’t just sadness: it’s trouble
-            with thinking, stress, motivation, and how one handles their inner world (Harmer et al., 2017). Antidepressants
-            nudge that whole network toward healthier patterns, especially tamping down those strong, negative emotional
-            responses (Harmer et al., 2017).
-          </p>
-        ),
-        "Neurotransmitters & circuits affected": (
+        "Brain regions, neural systems, and neurotransmitters affected": (
           <>
+            <p>
+              Antidepressants don’t just target one spot in the brain. They impact a multitude of regions tied to emotions,
+              motivation, memory, and self-regulation. Regions impacted include the prefrontal cortex (planning, focus,
+              dealing with feelings), amygdala (processing fear and negative emotions), hippocampus (memory), and other areas
+              tied to reward and pleasure. Changes to these areas matter because depression isn’t just sadness: it’s trouble
+              with thinking, stress, motivation, and how one handles their inner world (Harmer et al., 2017). Antidepressants
+              nudge that whole network toward healthier patterns, especially tamping down those strong, negative emotional
+              responses (Harmer et al., 2017).
+            </p>
             <p>
               While serotonin is usually the &ldquo;go-to&rdquo; chemical when thinking about depression treatment, many
               antidepressants act on other chemicals too (Harmer et al., 2017). The main neurotransmitters that

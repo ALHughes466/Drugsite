@@ -28,27 +28,27 @@ export default function CocainePage() {
             short-lived, people are prone to increase usage of the drug, which can lead towards higher risk to the body.
           </p>
         ),
-        "Brain regions & neural systems affected": (
-          <p>
-            Cocaine is known to primarily impact the regions of the brain that deal with decision-making and rewards,
-            including the prefrontal cortex and nucleus accumbens. These regions of the brain are a part of the reward
-            system that controls motivation and pleasure. According to research, cocaine addiction is associated with
-            abnormal functioning in the prefrontal cortex and increased physical activity in reward-related brain areas
-            like the striatum (Vaquero et al., 2017). The imbalance in the brain and body weakens self-control and makes
-            rewards feel stronger when they are not, which is why people continue to use the drug while being aware of
-            the harmful effects. These brain alterations can make it harder for people to operate normally in the
-            absence of medication.
-          </p>
-        ),
-        "Neurotransmitters & circuits affected": (
-          <p>
-            The drug cocaine mostly affects dopamine but also impacts norepinephrine and serotonin as stated previously.
-            As a reuptake inhibitor, it has the ability to prevent the brain from reabsorbing the chemicals in the
-            neurotransmitters. Because of this, dopamine levels rise, producing stronger and more intense emotions of
-            reward and pleasure. Once a person’s body becomes so used to taking cocaine, the experience of pleasure they
-            feel with the drug will slowly begin to decrease, creating less dopamine, which is also why individuals can
-            experience points of feeling “low” or unmotivated to take on daily tasks when they are not using the drug.
-          </p>
+        "Brain regions, neural systems, and neurotransmitters affected": (
+          <>
+            <p>
+              Cocaine is known to primarily impact the regions of the brain that deal with decision-making and rewards,
+              including the prefrontal cortex and nucleus accumbens. These regions of the brain are a part of the reward
+              system that controls motivation and pleasure. According to research, cocaine addiction is associated with
+              abnormal functioning in the prefrontal cortex and increased physical activity in reward-related brain areas
+              like the striatum (Vaquero et al., 2017). The imbalance in the brain and body weakens self-control and makes
+              rewards feel stronger when they are not, which is why people continue to use the drug while being aware of
+              the harmful effects. These brain alterations can make it harder for people to operate normally in the
+              absence of medication.
+            </p>
+            <p>
+              The drug cocaine mostly affects dopamine but also impacts norepinephrine and serotonin as stated previously.
+              As a reuptake inhibitor, it has the ability to prevent the brain from reabsorbing the chemicals in the
+              neurotransmitters. Because of this, dopamine levels rise, producing stronger and more intense emotions of
+              reward and pleasure. Once a person’s body becomes so used to taking cocaine, the experience of pleasure they
+              feel with the drug will slowly begin to decrease, creating less dopamine, which is also why individuals can
+              experience points of feeling “low” or unmotivated to take on daily tasks when they are not using the drug.
+            </p>
+          </>
         ),
         "Subjective effects": (
           <p>

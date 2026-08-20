@@ -60,26 +60,24 @@ export default function AlcoholPage() {
             the body processes alcohol at a steady and relatively slow rate (Hart & Ksir, 2022).
           </p>
         ),
-        "Brain regions & neural systems affected": (
-          <p>
-            Alcohol affects several interconnected brain regions that regulate reward, memory, emotion, and executive
-            functioning, including the prefrontal cortex, cerebellum, hippocampus, and amygdala. The prefrontal cortex
-            is responsible for decision making, judgment, and impulse control, and alcohol disrupts its normal
-            functioning, leading to poor decisions and reduced self-control. The cerebellum is involved in coordination
-            and balance, which explains why alcohol use often results in impaired motor skills and difficulty
-            maintaining balance. The hippocampus plays a major role in memory, and alcohol can interfere with its
-            function, sometimes leading to memory lapses or blackouts (Hart & Ksir, 2022). The amygdala is associated
-            with emotion and stress, and alcohol’s effects on this region can alter emotional responses and reduce
-            feelings of anxiety. The nucleus accumbens, part of the brain’s reward system, becomes more active during
-            alcohol use and contributes to pleasurable feelings that reinforce continued drinking. Chronic alcohol
-            misuse may produce long-term structural and functional changes within these brain regions, leading to
-            persistent cognitive impairment (Nehring et al., 2023; Varghese & Dakhode, 2022). These effects help
-            explain why intoxicated individuals often engage in risky behaviors (Hart & Ksir, 2022; Oscar-Berman &
-            Marinković, 2007).
-          </p>
-        ),
-        "Neurotransmitters & circuits affected": (
+        "Brain regions, neural systems, and neurotransmitters affected": (
           <>
+            <p>
+              Alcohol affects several interconnected brain regions that regulate reward, memory, emotion, and executive
+              functioning, including the prefrontal cortex, cerebellum, hippocampus, and amygdala. The prefrontal cortex
+              is responsible for decision making, judgment, and impulse control, and alcohol disrupts its normal
+              functioning, leading to poor decisions and reduced self-control. The cerebellum is involved in coordination
+              and balance, which explains why alcohol use often results in impaired motor skills and difficulty
+              maintaining balance. The hippocampus plays a major role in memory, and alcohol can interfere with its
+              function, sometimes leading to memory lapses or blackouts (Hart & Ksir, 2022). The amygdala is associated
+              with emotion and stress, and alcohol’s effects on this region can alter emotional responses and reduce
+              feelings of anxiety. The nucleus accumbens, part of the brain’s reward system, becomes more active during
+              alcohol use and contributes to pleasurable feelings that reinforce continued drinking. Chronic alcohol
+              misuse may produce long-term structural and functional changes within these brain regions, leading to
+              persistent cognitive impairment (Nehring et al., 2023; Varghese & Dakhode, 2022). These effects help
+              explain why intoxicated individuals often engage in risky behaviors (Hart & Ksir, 2022; Oscar-Berman &
+              Marinković, 2007).
+            </p>
             <p>
               Alcohol alters communication between neurons by affecting several major neurotransmitter systems. GABA
               and glutamate are the most important because they control whether brain activity is slowed down or sped

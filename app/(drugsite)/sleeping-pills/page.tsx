@@ -34,15 +34,13 @@ export default function SleepingPillsPage() {
             </p>
           </>
         ),
-        "Brain regions & neural systems affected": (
-          <p>
-            A primary brain region impacted by nonbenzodiazepine sedative-hypnotics is the limbic system. The
-            thalamus, hippocampus, hypothalamus, and ventrolateral preoptic nucleus (VLPO) are most impacted. Most
-            of these regions work together before or during sleep.
-          </p>
-        ),
-        "Neurotransmitters & circuits affected": (
+        "Brain regions, neural systems, and neurotransmitters affected": (
           <>
+            <p>
+              A primary brain region impacted by nonbenzodiazepine sedative-hypnotics is the limbic system. The
+              thalamus, hippocampus, hypothalamus, and ventrolateral preoptic nucleus (VLPO) are most impacted. Most
+              of these regions work together before or during sleep.
+            </p>
             <p>
               The primary neurotransmitter affected is gamma-aminobutyric acid (GABA), important in relaxation. It
               blocks signals in the central nervous system (CNS), which makes it an inhibitory neurotransmitter.

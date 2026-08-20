@@ -29,35 +29,35 @@ export default function OpioidsPage() {
             & Thompson, 2011).
           </p>
         ),
-        "Brain regions & neural systems affected": (
-          <p>
-            Opioids work by binding to the opioid receptors in the brain, located throughout the central nervous
-            system (ADAMHS, n.d.). An experiment was performed by Alzu’bi and colleagues on mice to determine the
-            effects of chronic fentanyl usage. According to this experiment, there was a link between fentanyl usage
-            and white matter injury, as well as abnormal myelin sheath formation (Alzu’bi et al., 2024). Myelin in
-            the brain is important, as it coats the axon within neurons, allowing for action potentials to occur
-            more quickly. Furthermore, this same study shows chronic fentanyl usage can lead to a damaged cerebral
-            cortex, which they assume could explain why there is a volume decrease in those with long-term opioid
-            use (Alzu’bi et al., 2024).
-          </p>
-        ),
-        "Neurotransmitters & circuits affected": (
-          <p>
-            According to Carl Hart and Charles Ksir, it is found that endorphins have potent opioid effects (Hart &
-            Ksir, 2021, p. 318). There are three main opioid receptors in the brain, mu, kappa, and delta, which
-            play a role in the determination of pain in the body, with delta being the main receptor for chronic
-            pain (Hart & Ksir, 2021, p. 318). However, opioids are considered agonists, antagonists, or partial
-            agonists, depending on the type of drug (Pathan & Williams, 2012). For example, naloxone, commonly known
-            as Narcan, is an opioid antagonist due to its binding of the receptors and produces no response, while
-            not allowing an agonist to bind to the receptor (Pathan & Williams, 2012). This is why Narcan is used to
-            help those suffering from an opioid overdose. Though, due to the complexity of the brain and
-            neurological connection, it is not entirely understood how opioids reduce pain (Hart & Ksir, 2021, p.
-            318). Furthermore, endorphins are released by the pituitary gland and enkephalins are released from the
-            adrenal gland; due to these peptides already circulating through the body, it is harder to understand
-            what is affecting the perception of pain (Hart & Ksir, 2021, p. 318). Lastly, it is unknown whether
-            actions that release more of these peptides, such as exercise, alter the brain’s reaction to these
-            substances (Hart & Ksir, 2021, p. 318).
-          </p>
+        "Brain regions, neural systems, and neurotransmitters affected": (
+          <>
+            <p>
+              Opioids work by binding to the opioid receptors in the brain, located throughout the central nervous
+              system (ADAMHS, n.d.). An experiment was performed by Alzu’bi and colleagues on mice to determine the
+              effects of chronic fentanyl usage. According to this experiment, there was a link between fentanyl usage
+              and white matter injury, as well as abnormal myelin sheath formation (Alzu’bi et al., 2024). Myelin in
+              the brain is important, as it coats the axon within neurons, allowing for action potentials to occur
+              more quickly. Furthermore, this same study shows chronic fentanyl usage can lead to a damaged cerebral
+              cortex, which they assume could explain why there is a volume decrease in those with long-term opioid
+              use (Alzu’bi et al., 2024).
+            </p>
+            <p>
+              According to Carl Hart and Charles Ksir, it is found that endorphins have potent opioid effects (Hart &
+              Ksir, 2021, p. 318). There are three main opioid receptors in the brain, mu, kappa, and delta, which
+              play a role in the determination of pain in the body, with delta being the main receptor for chronic
+              pain (Hart & Ksir, 2021, p. 318). However, opioids are considered agonists, antagonists, or partial
+              agonists, depending on the type of drug (Pathan & Williams, 2012). For example, naloxone, commonly known
+              as Narcan, is an opioid antagonist due to its binding of the receptors and produces no response, while
+              not allowing an agonist to bind to the receptor (Pathan & Williams, 2012). This is why Narcan is used to
+              help those suffering from an opioid overdose. Though, due to the complexity of the brain and
+              neurological connection, it is not entirely understood how opioids reduce pain (Hart & Ksir, 2021, p.
+              318). Furthermore, endorphins are released by the pituitary gland and enkephalins are released from the
+              adrenal gland; due to these peptides already circulating through the body, it is harder to understand
+              what is affecting the perception of pain (Hart & Ksir, 2021, p. 318). Lastly, it is unknown whether
+              actions that release more of these peptides, such as exercise, alter the brain’s reaction to these
+              substances (Hart & Ksir, 2021, p. 318).
+            </p>
+          </>
         ),
         "Subjective effects": (
           <p>

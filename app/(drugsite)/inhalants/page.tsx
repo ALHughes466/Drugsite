@@ -45,31 +45,31 @@ export default function InhalantsPage() {
             </p>
           </>
         ),
-        "Brain regions & neural systems affected": (
-          <p>
-            Inhalants impact several important brain regions including the prefrontal cortex (PFC), the nucleus
-            accumbens (NA), and also the amygdala (Beckley et al., 2016). They also impact the mesolimbic dopamine
-            system (MDS), which is the pathway involved in addiction and reinforcement of drug use. In the short
-            term, using this drug can cause effects such as dizziness, euphoria, and impaired judgment due to its
-            depressant effects on the brain (Beckley et al., 2016). However, too much use or chronic use of this drug
-            can cause memory problems or permanent brain injury and may reduce cognitive function. These brain
-            regions are important for behavior because they control how people make decisions, regulate emotions, and
-            experience rewards. This explains why inhalants can become addictive and lead to serious and risky
-            behaviors.
-          </p>
-        ),
-        "Neurotransmitters & circuits affected": (
-          <p>
-            Inhalants primarily affect neurotransmitters such as dopamine, GABA, and sometimes glutamate. They often
-            increase the activity of GABA, which is an inhibitory neurotransmitter that slows down brain activity,
-            causing relaxation and sedation. It can also increase dopamine levels in the brain’s reward system
-            (Beckley et al., 2016), which contributes to the pleasurable feelings and reinforces repeated use. Some
-            inhalants can also disrupt glutamate, which is involved in learning and memory. Depending on the
-            substance used, inhalants can act similar to a depressant by enhancing the inhibitory signal or reducing
-            the excitatory signals in the brain. These changes can interfere with normal communication, which can
-            also impair thinking, coordination, and memory. Long-term use can cause lasting damage in how the brain
-            processes information.
-          </p>
+        "Brain regions, neural systems, and neurotransmitters affected": (
+          <>
+            <p>
+              Inhalants impact several important brain regions including the prefrontal cortex (PFC), the nucleus
+              accumbens (NA), and also the amygdala (Beckley et al., 2016). They also impact the mesolimbic dopamine
+              system (MDS), which is the pathway involved in addiction and reinforcement of drug use. In the short
+              term, using this drug can cause effects such as dizziness, euphoria, and impaired judgment due to its
+              depressant effects on the brain (Beckley et al., 2016). However, too much use or chronic use of this drug
+              can cause memory problems or permanent brain injury and may reduce cognitive function. These brain
+              regions are important for behavior because they control how people make decisions, regulate emotions, and
+              experience rewards. This explains why inhalants can become addictive and lead to serious and risky
+              behaviors.
+            </p>
+            <p>
+              Inhalants primarily affect neurotransmitters such as dopamine, GABA, and sometimes glutamate. They often
+              increase the activity of GABA, which is an inhibitory neurotransmitter that slows down brain activity,
+              causing relaxation and sedation. It can also increase dopamine levels in the brain’s reward system
+              (Beckley et al., 2016), which contributes to the pleasurable feelings and reinforces repeated use. Some
+              inhalants can also disrupt glutamate, which is involved in learning and memory. Depending on the
+              substance used, inhalants can act similar to a depressant by enhancing the inhibitory signal or reducing
+              the excitatory signals in the brain. These changes can interfere with normal communication, which can
+              also impair thinking, coordination, and memory. Long-term use can cause lasting damage in how the brain
+              processes information.
+            </p>
+          </>
         ),
         "Subjective effects": (
           <p>

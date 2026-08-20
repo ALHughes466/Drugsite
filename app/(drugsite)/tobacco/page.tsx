@@ -45,29 +45,29 @@ export default function TobaccoPage() {
             </p>
           </>
         ),
-        "Brain regions & neural systems affected": (
-          <p>
-            The mesolimbic dopamine system is the primary neural pathway that is involved in tobacco addiction. Nicotine causes dopamine to be
-            released in the nucleus accumbens to create acute reinforcement (Alcohol and Drug Foundation, 2024). Chronic tobacco use causes stable
-            adjustments in resting state networks in addition to the reward circuit. Functional magnetic resonance imaging (fMRI) has shown the
-            decreased functional connectivity between the Sensorimotor Network (SMN), specifically the left precentral gyrus, and the Visual
-            Network (VN) (Sun et al., 2025). These areas are important for behavior because the SMN is in charge of motor control and the VN
-            processes sensory observation; their degeneration may explain why chronic smokers have compulsive automated habits. Nicotine
-            interference during adolescent development affects the prefrontal cortex during development. It impairs the executive control needed
-            to prevent the reward system&rsquo;s impulsive urges. This biological susceptibility shows the context for the Tobacco 21 regulations
-            (U.S. Food and Drug Administration, 2024).
-          </p>
-        ),
-        "Neurotransmitters & circuits affected": (
-          <p>
-            Nicotine is a nicotinic acetylcholine receptor agonist that mimics the signaling molecules that activate chemical circuitry in the
-            brain. Nicotine hijacks the mesolimbic reward system that releases dopamine, triggering release in the ventral tegmental area, which
-            results in immediate reinforcing effects that can lead to addiction (Alcohol and Drug Foundation, 2024). Advanced neuroimaging
-            suggests that tobacco addiction involves extensive changes in the opioid and serotonin systems along with dopamine (Sun et al., 2025).
-            These systems regulate the &ldquo;sensorimotor&rdquo; and &ldquo;visual&rdquo; networks, which can explain why chronic users have changes in the way they
-            process sensory input and cravings. Chronic use of tobacco comes with long term neurochemical changes that are caused that affect
-            users by lowering overall physical health and quality of life (Wachsmann et al., 2023).
-          </p>
+        "Brain regions, neural systems, and neurotransmitters affected": (
+          <>
+            <p>
+              The mesolimbic dopamine system is the primary neural pathway that is involved in tobacco addiction. Nicotine causes dopamine to be
+              released in the nucleus accumbens to create acute reinforcement (Alcohol and Drug Foundation, 2024). Chronic tobacco use causes stable
+              adjustments in resting state networks in addition to the reward circuit. Functional magnetic resonance imaging (fMRI) has shown the
+              decreased functional connectivity between the Sensorimotor Network (SMN), specifically the left precentral gyrus, and the Visual
+              Network (VN) (Sun et al., 2025). These areas are important for behavior because the SMN is in charge of motor control and the VN
+              processes sensory observation; their degeneration may explain why chronic smokers have compulsive automated habits. Nicotine
+              interference during adolescent development affects the prefrontal cortex during development. It impairs the executive control needed
+              to prevent the reward system&rsquo;s impulsive urges. This biological susceptibility shows the context for the Tobacco 21 regulations
+              (U.S. Food and Drug Administration, 2024).
+            </p>
+            <p>
+              Nicotine is a nicotinic acetylcholine receptor agonist that mimics the signaling molecules that activate chemical circuitry in the
+              brain. Nicotine hijacks the mesolimbic reward system that releases dopamine, triggering release in the ventral tegmental area, which
+              results in immediate reinforcing effects that can lead to addiction (Alcohol and Drug Foundation, 2024). Advanced neuroimaging
+              suggests that tobacco addiction involves extensive changes in the opioid and serotonin systems along with dopamine (Sun et al., 2025).
+              These systems regulate the &ldquo;sensorimotor&rdquo; and &ldquo;visual&rdquo; networks, which can explain why chronic users have changes in the way they
+              process sensory input and cravings. Chronic use of tobacco comes with long term neurochemical changes that are caused that affect
+              users by lowering overall physical health and quality of life (Wachsmann et al., 2023).
+            </p>
+          </>
         ),
         "Subjective effects": (
           <p>

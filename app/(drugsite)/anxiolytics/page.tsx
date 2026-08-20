@@ -7,8 +7,7 @@ export default function AnxiolyticsPage() {
       sections={{
         "Drug identification and classification": <p>Placeholder text.</p>,
         "Routes of administration & pharmacokinetics": <p>Placeholder text.</p>,
-        "Brain regions & neural systems affected": <p>Placeholder text.</p>,
-        "Neurotransmitters & circuits affected": <p>Placeholder text.</p>,
+        "Brain regions, neural systems, and neurotransmitters affected": <p>Placeholder text.</p>,
         "Subjective effects": <p>Placeholder text.</p>,
         "Behavioral and physiological effects": <p>Placeholder text.</p>,
         "Tolerance, dependence, and withdrawal": <p>Placeholder text.</p>,

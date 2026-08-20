@@ -42,7 +42,7 @@ export default function CaffeinePage() {
             slower effects (Hines et al., 2019).
           </p>
         ),
-        "Brain regions & neural systems affected": (
+        "Brain regions, neural systems, and neurotransmitters affected": (
           <>
             <p>
               Caffeine affects several important areas of the brain that regulate alertness, attention, motivation,
@@ -71,20 +71,18 @@ export default function CaffeinePage() {
               use are stimulation and alertness. Chronic, or long-term, effects are tolerance, dependence, and
               withdrawal.
             </p>
+            <p>
+              The primary neurotransmitter affected by caffeine is adenosine. Caffeine acts as an antagonist on the
+              adenosine receptor (Yang et al., 2021). Adenosine inhibits neurotransmitters, causing a feeling of calm
+              and sedation (Hart & Ksir, 2022). Caffeine blocks the adenosine receptors, meaning the neurotransmitters
+              cannot send signals to the brain telling it to feel calm and sedated. Caffeine causes the adenosine to
+              decrease its neural firing and synaptic transmission, which increases alertness and reduces feelings of
+              fatigue. As discussed previously, caffeine directly impacts the adenosine receptors and indirectly impacts
+              the dopamine receptors. As a result, dopamine signaling increases indirectly, producing greater alertness,
+              faster reaction times, and improved attention without directly stimulating dopamine release. The effects
+              of caffeine differ depending on whether it is used occasionally or regularly.
+            </p>
           </>
-        ),
-        "Neurotransmitters & circuits affected": (
-          <p>
-            The primary neurotransmitter affected by caffeine is adenosine. Caffeine acts as an antagonist on the
-            adenosine receptor (Yang et al., 2021). Adenosine inhibits neurotransmitters, causing a feeling of calm
-            and sedation (Hart & Ksir, 2022). Caffeine blocks the adenosine receptors, meaning the neurotransmitters
-            cannot send signals to the brain telling it to feel calm and sedated. Caffeine causes the adenosine to
-            decrease its neural firing and synaptic transmission, which increases alertness and reduces feelings of
-            fatigue. As discussed previously, caffeine directly impacts the adenosine receptors and indirectly impacts
-            the dopamine receptors. As a result, dopamine signaling increases indirectly, producing greater alertness,
-            faster reaction times, and improved attention without directly stimulating dopamine release. The effects
-            of caffeine differ depending on whether it is used occasionally or regularly.
-          </p>
         ),
         "Subjective effects": (
           <p>

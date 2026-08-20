@@ -19,8 +19,7 @@ function getIntrinsicSize(image: DrugArticleImage) {
 export const DRUG_SECTION_TITLES = [
   "Drug identification and classification",
   "Routes of administration & pharmacokinetics",
-  "Brain regions & neural systems affected",
-  "Neurotransmitters & circuits affected",
+  "Brain regions, neural systems, and neurotransmitters affected",
   "Subjective effects",
   "Behavioral and physiological effects",
   "Tolerance, dependence, and withdrawal",

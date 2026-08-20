@@ -34,30 +34,30 @@ export default function AnticonvulsantsPage() {
             effects may also be long-lasting, especially if not taken in proper doses.
           </p>
         ),
-        "Brain regions & neural systems affected": (
-          <p>
-            Topiramate has a neurobiological effect on the cerebral cortex, hippocampus, and amygdala. It operates by
-            inhibiting hyperactivity in the mesolimbic dopamine system, which is central to reward and addictive
-            behavior. Seizures are caused by overly excitable neural firing, so by reducing excitability in these
-            regions, Topamax helps prevent the spread of seizures (Walker & Sander, 1996). Acute use inhibits
-            excessive neuronal firing, whereas chronic use leads to neuroadaptive changes by modulating both
-            excitatory glutamatergic and inhibitory GABAergic systems. Since executive function is controlled by the
-            cortex, memory is regulated by the hippocampus, and emotional reactivity is controlled by the amygdala,
-            the direct correlation between topiramate and the observable cognitive and mood improvements becomes
-            evident (Hart & Ksir, 2022). Chronic use may cause long-lasting alterations, like receptor sensitivity.
-            Cognitive slowing could also occur due to prolonged inhibition (Steele et al., 2024).
-          </p>
-        ),
-        "Neurotransmitters & circuits affected": (
-          <p>
-            Topiramate possesses a distinct pharmacological profile. It is a gamma-aminobutyric acid (GABA) positive
-            allosteric modulator of GABA-A receptors that enables inhibitory transmission. Simultaneously, it
-            interacts as an antagonist at the AMPA/kainate form of glutamate receptor, thus suppressing excitatory
-            transmission. It also inhibits sodium channels, which are voltage-dependent. Simultaneously modulating
-            GABA and glutamate results in the net downstream effect of reducing neuronal firing rates, which is why
-            it is effective in preventing seizures and stabilizing psychiatric symptoms (Valencia et al., 2023;
-            Shank & Maryanoff, 2008).
-          </p>
+        "Brain regions, neural systems, and neurotransmitters affected": (
+          <>
+            <p>
+              Topiramate has a neurobiological effect on the cerebral cortex, hippocampus, and amygdala. It operates by
+              inhibiting hyperactivity in the mesolimbic dopamine system, which is central to reward and addictive
+              behavior. Seizures are caused by overly excitable neural firing, so by reducing excitability in these
+              regions, Topamax helps prevent the spread of seizures (Walker & Sander, 1996). Acute use inhibits
+              excessive neuronal firing, whereas chronic use leads to neuroadaptive changes by modulating both
+              excitatory glutamatergic and inhibitory GABAergic systems. Since executive function is controlled by the
+              cortex, memory is regulated by the hippocampus, and emotional reactivity is controlled by the amygdala,
+              the direct correlation between topiramate and the observable cognitive and mood improvements becomes
+              evident (Hart & Ksir, 2022). Chronic use may cause long-lasting alterations, like receptor sensitivity.
+              Cognitive slowing could also occur due to prolonged inhibition (Steele et al., 2024).
+            </p>
+            <p>
+              Topiramate possesses a distinct pharmacological profile. It is a gamma-aminobutyric acid (GABA) positive
+              allosteric modulator of GABA-A receptors that enables inhibitory transmission. Simultaneously, it
+              interacts as an antagonist at the AMPA/kainate form of glutamate receptor, thus suppressing excitatory
+              transmission. It also inhibits sodium channels, which are voltage-dependent. Simultaneously modulating
+              GABA and glutamate results in the net downstream effect of reducing neuronal firing rates, which is why
+              it is effective in preventing seizures and stabilizing psychiatric symptoms (Valencia et al., 2023;
+              Shank & Maryanoff, 2008).
+            </p>
+          </>
         ),
         "Subjective effects": (
           <p>
